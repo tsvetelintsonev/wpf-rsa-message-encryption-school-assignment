@@ -1,0 +1,12 @@
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\bin\Release\Public Key Encryptor.exe
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\bin\Release\Public Key Encryptor.pdb
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Release\Public Key Encryptor.csprojResolveAssemblyReference.cache
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Release\MainWindow.baml
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Release\MainWindow.g.cs
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Release\App.g.cs
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Release\Public Key Encryptor_MarkupCompile.cache
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Release\Public Key Encryptor.g.resources
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Release\Public_Key_Encryptor.Properties.Resources.resources
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Release\Public Key Encryptor.csproj.GenerateResource.Cache
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Release\Public Key Encryptor.exe
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Release\Public Key Encryptor.pdb

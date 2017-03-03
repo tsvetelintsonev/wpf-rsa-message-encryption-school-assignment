@@ -1,0 +1,37 @@
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\bin\Debug\Public Key Encryptor.exe
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\bin\Debug\Public Key Encryptor.pdb
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\MainWindow.baml
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\MainWindow.g.cs
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\App.g.cs
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor_MarkupCompile.cache
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.g.resources
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public_Key_Encryptor.Properties.Resources.resources
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.exe
+C:\fkj\projects\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.pdb
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.exe
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.pdb
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\bin\Debug\Public Key Encryptor.exe
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\bin\Debug\Public Key Encryptor.pdb
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.csprojResolveAssemblyReference.cache
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\MainWindow.baml
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\App.g.cs
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor_MarkupCompile.cache
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.g.resources
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public_Key_Encryptor.Properties.Resources.resources
+C:\Users\fkj\Wuala\projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.csproj.GenerateResource.Cache
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.exe
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.pdb
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\bin\Debug\Public Key Encryptor.exe
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\bin\Debug\Public Key Encryptor.pdb
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.csprojResolveAssemblyReference.cache
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\MainWindow.baml
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\App.g.cs
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor_MarkupCompile.cache
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.g.resources
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public_Key_Encryptor.Properties.Resources.resources
+C:\Users\tsvetelintsonev\Google Drive\Projects\C#\Public Key Encryptor\Public Key Encryptor\obj\x86\Debug\Public Key Encryptor.csproj.GenerateResource.Cache
